@@ -1,0 +1,40 @@
+
+
+
+.todo-app{
+    width:800px;
+    background-color: white;
+    padding: 30px;
+    margin: 20px auto;
+    border-radius: 4px;
+    position: relative;
+}
+
+.todo-app .todo-input {
+    padding: 20px;
+    font-size: 1.2rem;
+    width: 649px;
+
+}
+
+.todo-app li{
+    font-size: 1.4rem;
+    line-height:2.4rem;
+    margin-left:0;
+    padding-left:1em;
+    text-indent: -1em;
+}
+
+.todo-counter {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    color: wheat;
+    background-color: firebrick;
+    top: 38px;
+    right: 22px;
+    position: absolute;
+}
